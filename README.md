@@ -1,5 +1,5 @@
 # kdf-golang
-kdf usage example with Golang
+kdf(key derivation function) usage example with Golang
 
 
 # test:
